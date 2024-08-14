@@ -1,2 +1,2 @@
-# Eclipse Spaceworkы Systems
+# Eclipse Spaceworks Systems
 Eclipse boundaries - explore Infinity!
